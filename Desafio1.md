@@ -1,4 +1,4 @@
-# Desafio -> Classificador Nivel Heroi-DIO
+# Desafio 1 -> Classificador Nivel Heroi
 
 ## Entendendo o Desafio
  

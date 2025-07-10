@@ -1,8 +1,7 @@
 # 💻 Savegnago - Lógica de Programação - DIO
 
-Inicie uma jornada sólida no desenvolvimento web com um portfólio prático!
-
-Desenvolva seu raciocínio lógico com JavaScript, integrando conceitos de Inteligência Artificial, engenharia de Prompts e Computação em Nuvem (Azure). Fortaleça sua base dando os primeiros passos na programação.
+- Jornada sólida no desenvolvimento Web com um portfólio prático!
+- Desenvolvendo raciocínio lógico com JavaScript, integrando conceitos de Inteligência Artificial, engenharia de Prompts e Computação em Nuvem (Azure). - Fortalecendo a base dando os primeiros passos na programação.
 
 🚀 **Inscreva-se neste Bootcamp gratuito** e comece a sua jornada rumo a **3 projetos** para destacar seu portfólio e habilidades procuradas por recrutadores do mundo inteiro.
 
@@ -17,5 +16,4 @@ Desenvolva seu raciocínio lógico com JavaScript, integrando conceitos de Intel
 - **Desafio de Projeto:** Construa projetos práticos para fortalecer seu portfólio utilizando os conhecimentos das aulas.
 
 - **Ranking:** Cada bootcamp possui um ranking com **premiações
-
 

@@ -1,3 +1,5 @@
+//-- Desafio 1 - Classificador de Nível de Herói --
+
 let heroi = {
     nome: "Guerreiro",
     xp: 3000
